@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">LibraryMovie</string>
+
+    <string name="heroes_name">Judul Film</string>
+    <string name="description">Deskripsi</string>
+    <string name="genre">Genre</string>
+    <string name="namaku">Mohammad Izamul Fikri Fahmi</string>
+    <string name="emailku">mfikri765@gmail.com</string>
+    <string name="info">info</string>
+    <string-array name="data_name">
+        <item>Dune</item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <item>Howl\'s Moving Castle</item>
+        <item>Monster (2023)</item>
+        <item>The Dark Knight</item>
+        <item>Interstellar</item>
+        <item>Tenet</item>
+        <item>Oppenheimer</item>
+        <item>Avengers: Endgame</item>
+        <item>Godzilla Minus One</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Dune adalah sebuah film fiksi ilmiah yang disutradarai oleh Denis Villeneuve, berdasarkan novel dengan judul yang sama karya Frank Herbert. Film ini menampilkan kisah tentang pertarungan untuk mengendalikan sumber daya yang langka di planet gurun yang berbahaya.</item>
+        <item>Spider-Man: Into the Spider-Verse adalah film animasi superhero Amerika Serikat tahun 2018 yang diproduksi oleh Sony Pictures Animation bersama Columbia Pictures, dan didistribusikan oleh Sony Pictures Releasing. Film ini mengisahkan tentang seorang remaja bernama Miles Morales dari Brooklyn, New York, yang mendapati dirinya memiliki kekuatan luar biasa yang sama seperti Spider-Man. Bersama dengan tokoh Spider-Man dari dimensi lain, Miles harus belajar menjadi pahlawan yang sejati untuk menghentikan ancaman yang mengancam semua dimensi.
+    </item>
+        <item>Howl\'s Moving Castle adalah film animasi Jepang tahun 2004 yang disutradarai oleh Hayao Miyazaki dan diproduksi oleh Studio Ghibli. Film ini didasarkan pada novel dengan judul yang sama karya Diana Wynne Jones dan mengisahkan tentang petualangan seorang gadis muda bernama Sophie yang terlibat dengan penyihir jahat dan kerajaan yang berperang. Dengan bantuan dari Howl, seorang penyihir muda yang misterius, Sophie berusaha untuk mengatasi kutukan yang mempengaruhi penampilannya dan menghentikan perang yang mengancam negerinya.
+    </item>
+        <item>Monster (2023) adalah film dari jepang yang memberikan nuansa baru dengan melibatkan penonton untuk mengungkap siapa monsternya Film ini memiliki tiga sudut pandang yang menjadikan film ini seperti puzzle yang harus dipecahkan oleh para penonton. Dengan membawa alur tidak banyak dialog membuat film ini memiliki auranya tersendiri dan menarik untuk ditonton.
+    </item>
+        <item>The Dark Knight adalah film superhero Amerika Serikat tahun 2008 yang disutradarai oleh Christopher Nolan dan merupakan sekuel dari Batman Begins (2005). Film ini menampilkan Batman (diperankan oleh Christian Bale) yang berusaha untuk menghentikan penjahat terkenal Joker (diperankan oleh Heath Ledger) dalam upaya untuk menghancurkan kota Gotham. Dengan bantuan dari sekutu barunya, Harvey Dent (diperankan oleh Aaron Eckhart), Batman berjuang untuk menjaga kota dari kekacauan yang diciptakan oleh Joker.
+    </item>
+        <item>Interstellar adalah film fiksi ilmiah Amerika Serikat tahun 2014 yang disutradarai oleh Christopher Nolan.
+ Film ini mengisahkan tentang sekelompok penjelajah antariksa yang melakukan perjalanan melintasi lubang cacing dalam upaya untuk menemukan planet baru yang dapat dihuni manusia.
+ Dengan bantuan teori fisika yang maju dan teknologi canggih, para penjelajah berusaha untuk menyelamatkan umat manusia dari kepunahan yang tidak terhindarkan.
+    </item>
+        <item>Tenet adalah film aksi fiksi ilmiah Amerika Serikat tahun 2020 yang ditulis dan disutradarai oleh Christopher Nolan.
+ Film ini mengisahkan tentang seorang agen CIA yang direkrut untuk menggagalkan serangan global yang melibatkan teknologi yang dapat membalikkan arah waktu.
+ Dalam sebuah misi yang berbahaya dan penuh intrik, agen tersebut harus berhadapan dengan musuh-musuh yang tidak terlihat dan mengungkap kebenaran di balik rencana jahat yang mengancam dunia.
+    </item>
+        <item>Oppenheimer adalah film biografi Amerika Serikat yang sedang dalam pengembangan, disutradarai oleh Christopher Nolan dan dibintangi oleh Cillian Murphy.
+ Film ini akan mengisahkan tentang kehidupan dan karya ilmiah dari fisikawan Amerika Serikat J. Robert Oppenheimer, yang memainkan peran penting dalam pengembangan bom atom selama Perang Dunia II.
+ Dengan fokus pada ketegangan moral dan etika, Oppenheimer akan menggali kompleksitas kepribadian dan dampak sejarah dari ilmuwan yang kontroversial ini.
+    </item>
+        <item>Avengers: Endgame adalah film superhero Amerika Serikat tahun 2019 yang disutradarai oleh Anthony dan Joe Russo.
+ Film ini adalah bagian dari Marvel Cinematic Universe (MCU) dan merupakan kelanjutan dari Avengers: Infinity War (2018), yang menampilkan pertempuran epik antara para pahlawan dan penjahat. Dengan menggunakan perjalanan waktu dan keberanian yang tak terbandingkan, para Avengers berusaha untuk membalikkan efek pemusnahan yang disebabkan oleh Thanos dan menyelamatkan alam semesta dari kehancuran total.
+    </item>
+        <item>Godzilla Minus One adalah film yang menceritakan tentang serangan makhluk prasejarah yang merugikan umat manusia. Film ini juga mengisahkan tentang sejarah Godzilla dan ancaman baru yang mengintai negara Jepang.
+ Film ini menampilkan Godzilla yang lebih tradisional, dekat dengan visi Ohrai. Godzilla memiliki cara berjalan yang kaku dan kikuk, dan matanya menunjukkan kecerdasan yang tidak dapat dibaca dalam jumlah yang tepat.
+    </item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/id/5/5e/DunePartPost2021.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/b/b8/Spider-Man_Into_the_Spider-Verse_%282018_poster%29.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/a/a0/Howls-moving-castleposter.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/a/a3/Monster_2023_film_poster.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/8/8a/Dark_Knight.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/b/bc/Interstellar_film_poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/1/14/Tenet_movie_poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/4/4a/Oppenheimer_%28film%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/0/0d/Avengers_Endgame_poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/e/e0/Godzilla_Minus_One_Poster.jpeg</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Sci-fi</item>
+        <item>Animation</item>
+        <item>Anime</item>
+        <item>Mystery</item>
+        <item>Sci-Fi</item>
+        <item>Sci-Fi</item>
+        <item>Action</item>
+        <item>Sci-Fi</item>
+        <item>Sci-FI</item>
+        <item>Mistis</item>
+    </string-array>
+</resources>
