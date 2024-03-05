@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item> <!-- Color for AppBar background -->
+        <item name="colorPrimaryDark">@color/secondary</item> <!-- Color for statusBar -->
+        <item name="colorAccent">@color/primary</item> <!-- Color for other accents -->
+        <item name="android:textColorPrimary">@android:color/white</item> <!-- Text color -->
+    </style>
+
+    <!-- Dark Theme -->
+    <style name="AppTheme.Dark" parent="Theme.AppCompat.DayNight">
+        <item name="colorPrimary">@color/secondary</item> <!-- Color for AppBar background in dark theme -->
+        <item name="colorPrimaryDark">@color/secondary</item> <!-- Color for statusBar in dark theme -->
+        <item name="colorAccent">@color/primary</item> <!-- Color for other accents in dark theme -->
+        <item name="android:textColorPrimary">@android:color/black</item> <!-- Text color in dark theme -->
+    </style>
+</resources>
